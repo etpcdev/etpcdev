@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @etpcdev
 - 🖥️ [My website](https://etpc.dev/)
-- 📫 How to reach me
-  - [etpcdev@gmail.com](mailto:etpcdev@gmail.com)
+- 📫 Email: [etpcdev@gmail.com](mailto:etpcdev@gmail.com)
+- 🎮 Discord: @etpcdev
 
 <!---
 etpcdev/etpcdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
